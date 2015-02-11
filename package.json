@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*",
+    "testem": "*"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "framework": "mocha",
+  "src_files": [
+    "vendor/escodegen.browser.js",
+    "node_modules/esprima/esprima.js",
+    "nodemodules/estraverse/estraverse.js",
+    "node_modules/chai/chai.js",
+    "fixtures/fixtures.js",
+    "fixtures/programs/*.js",
+    "lib/**/*.js",
+    "fixtures/fixtures.js",
+    "spec/**/*.js"
+  ]
+}
